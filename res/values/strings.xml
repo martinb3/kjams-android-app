@@ -3,6 +3,7 @@
 
     <string name="app_name">kJams Remote</string>
     <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
     <string name="hello_world">Hello world!</string>
 
 </resources>
